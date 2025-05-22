@@ -126,7 +126,13 @@ npm run dev
 
 ## 📸 Screenshots
 
+![Screenshot (153)](https://github.com/user-attachments/assets/9978b234-ca27-44ed-9d77-2c715ea38813)
 
+![Screenshot (154)](https://github.com/user-attachments/assets/e9cf038b-6d32-4c7f-8166-32cd4587d0d2)
+
+![Screenshot (155)](https://github.com/user-attachments/assets/267cf9c8-3f12-4985-b5b6-679071763e43)
+
+![Screenshot (156)](https://github.com/user-attachments/assets/83ee1d23-ed79-4a7f-9409-30834f55e677)
 
 ## 🤝 Contributing
 We welcome community contributions! Follow the steps below to contribute:
